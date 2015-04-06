@@ -11,6 +11,6 @@ public class Test
 			IOException
 	{
 		Client c = new Client();
-		c.pushNotify ( "192.168.1.100" , "00" , "owoew" );
+		c.pushNotify ( "192.168.1.100" , "00" , "owoew111111111" );
 	}
 }
