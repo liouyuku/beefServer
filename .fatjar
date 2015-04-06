@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Apr 01 13:41:24 CST 2015
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=beef.jar
+manifest.mergeall=true
+manifest.mainclass=org.beef.socket.Application
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
